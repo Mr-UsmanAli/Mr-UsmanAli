@@ -8,3 +8,7 @@
 - 📫 How to reach me: [linkedin:-usmanali07](https://www.linkedin.com/in/usmanali07/) , [Twitter :- Usmanali07_](https://twitter.com/Usmanali07_)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Dreaming Big, Geting stuff done and knowing how to have fun
+
+
+
+<img scr = "https://github-readme-stats.vercel.app/api?username=usmanali07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
