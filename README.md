@@ -4,11 +4,11 @@
 </p>
 
 <h2> 🚀 &nbsp;Lets Connect</h2>
-
+<p align="middle">
 <a href="https://www.linkedin.com/in/usmanali07/"
    <p align="middle">
   <img height="50" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png"  alt="logo" align="middle">
-  
+ 
 </a>
 <a href="https://twitter.com/Usmanali07_" >
   <img height="50" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" align="middle">
@@ -17,7 +17,7 @@
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" align="middle">
 </a>
 
-
+</p>
 
 
 - 🔭 I’m currently working as Python Developer
@@ -25,7 +25,7 @@
 - 👯 I’m looking to collaborate on different Projects specially on Machine Learning
 - 🤔 I’m looking for help with Latest Machine learning Models 
 - 💬 Ask me about Machine learning / Data Scientist / Many more
-- 📫 How to reach me: [linkedin:-usmanali07](https://www.linkedin.com/in/usmanali07/) , [Twitter :- Usmanali07_](https://twitter.com/Usmanali07_)
+- 📫 How to reach me: usmanalipgc@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Dreaming Big, Geting stuff done and knowing how to have fun
 
