@@ -1,8 +1,8 @@
-### Hi there 👋, I am Usman Ali
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
+###  👋, I am Usman Ali
 <h2> 🚀 &nbsp;Lets Connect</h2>
 <p align="middle">
 <a href="https://www.linkedin.com/in/usmanali07/"
