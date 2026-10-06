@@ -9,7 +9,7 @@
    <p align="middle">
   <img height="50" src="https://www.freepnglogos.com/uploads/linkedin-in-logo-png-1.png"  alt="logo" align="middle">
 </a>
-<a href="https://twitter.com/Usmanali07_" >
+
   <img height="50" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-logo-vector-png-clipart-1.png" align="middle">
 </a>
 <a href="https://www.instagram.com/usmanali07_/">
